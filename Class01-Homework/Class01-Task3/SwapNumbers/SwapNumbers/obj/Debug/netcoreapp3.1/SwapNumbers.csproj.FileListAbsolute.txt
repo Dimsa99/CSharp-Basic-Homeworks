@@ -1,0 +1,14 @@
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.AssemblyReference.cache
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Task3\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\bin\Debug\netcoreapp3.1\Class01-Homework.exe
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\bin\Debug\netcoreapp3.1\Class01-Homework.deps.json
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\bin\Debug\netcoreapp3.1\Class01-Homework.runtimeconfig.json
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\bin\Debug\netcoreapp3.1\Class01-Homework.runtimeconfig.dev.json
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\bin\Debug\netcoreapp3.1\Class01-Homework.dll
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\bin\Debug\netcoreapp3.1\Class01-Homework.pdb
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\obj\Debug\netcoreapp3.1\Class01-Homework.csproj.AssemblyReference.cache
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\obj\Debug\netcoreapp3.1\Class01-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\obj\Debug\netcoreapp3.1\Class01-Homework.AssemblyInfoInputs.cache
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\obj\Debug\netcoreapp3.1\Class01-Homework.AssemblyInfo.cs
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\obj\Debug\netcoreapp3.1\Class01-Homework.csproj.CoreCompileInputs.cache
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\obj\Debug\netcoreapp3.1\Class01-Homework.dll
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\obj\Debug\netcoreapp3.1\Class01-Homework.pdb
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class01-Homework\Class01-Homework\obj\Debug\netcoreapp3.1\Class01-Homework.genruntimeconfig.cache
