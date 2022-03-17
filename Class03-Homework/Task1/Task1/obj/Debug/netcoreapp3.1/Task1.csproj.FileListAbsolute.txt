@@ -1,0 +1,14 @@
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\Bakli\OneDrive\Desktop\sedc\sedc csharp-basic\Class03-Homework\Task1\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
