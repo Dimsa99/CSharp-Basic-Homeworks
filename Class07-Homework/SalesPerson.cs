@@ -9,8 +9,9 @@ namespace Exercise2
     {
         public SalesPerson(string firstName, string lastName, Role role, double salary, double successSaleRevenue) : base(firstName, lastName, role)
         {
-            role = Role.Sales;
+           
             Salary = 500;
+            Salary = salary;
             SuccessSaleRevenue = successSaleRevenue;
         }
 
